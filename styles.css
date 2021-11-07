@@ -104,6 +104,7 @@ h4 a {
   margin-top: 30px;
   margin-bottom: 20px;
   background-color: rgb(153, 248, 248);
+  overflow: hidden;
 }
 .connecting {
   margin-left: 10%;
