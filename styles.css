@@ -1,0 +1,126 @@
+body {
+  background-image: linear-gradient(
+    to right,
+    rgb(153, 248, 248),
+    rgb(207, 252, 252),
+    rgb(153, 248, 248)
+  );
+
+  margin: 0 auto;
+  font-size: 20px;
+  color: rgb(0, 102, 179);
+}
+.heading {
+  overflow: hidden;
+  padding: 10px;
+  background-color: rgb(153, 248, 248);
+}
+
+.heading img {
+  width: 500px;
+  float: left;
+  margin-left: 10%;
+}
+.heading .student {
+  float: right;
+  margin-right: 10%;
+  margin-top: 20px;
+  color: white;
+}
+.student .student2 {
+  padding: 10px;
+  border-radius: 10px;
+  letter-spacing: 3px;
+  background-color: rgb(0, 102, 179);
+  margin: 4px;
+}
+.student .myname {
+  color: rgb(0, 102, 179);
+  padding: 10px;
+  font-weight: bold;
+}
+.aboutme {
+  text-align: center;
+}
+.aboutme h2 {
+  word-spacing: 20px;
+  letter-spacing: 3px;
+}
+.aboutme .name1 {
+  font-size: 35px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+.aboutme .name {
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+.containers {
+  overflow: hidden;
+  text-align: center;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+.container {
+  overflow: hidden;
+
+  box-sizing: border-box;
+  float: left;
+  width: 23%;
+  margin: 1%;
+  text-align: left;
+  border: 1px solid rgb(0, 102, 179);
+  border-radius: 20px;
+}
+h3 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 0 auto;
+  font-size: 22px;
+  text-align: center;
+}
+.container li,
+a {
+  text-decoration: none;
+  list-style: circle;
+  margin: 0 auto;
+  padding: 5px;
+}
+.container ul {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+h4 a {
+  text-decoration: none;
+  color: rgb(0, 102, 179);
+}
+.container .marvel-movies {
+  margin: 0 auto;
+  padding-left: 20px;
+}
+.connect {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.connecting {
+  margin-left: 10%;
+  float: left;
+}
+.location {
+  float: left;
+  margin-left: 8%;
+}
+.manzil {
+  float: right;
+  margin-right: 10.5%;
+  margin-top: 20px;
+}
+a:hover {
+  color: blue;
+}
+a:visited {
+  color: rgb(0, 102, 179);
+}
