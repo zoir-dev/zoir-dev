@@ -127,3 +127,6 @@ a:hover {
 a:visited {
   color: rgb(0, 102, 179);
 }
+.connecting img {
+  margin-top: 105px;
+}
