@@ -102,13 +102,15 @@ h4 a {
 }
 .connect {
   margin-top: 30px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   background-color: rgb(153, 248, 248);
   overflow: hidden;
 }
 .connecting {
   margin-left: 10.5%;
   float: left;
+  width: 35%;
+  margin-top: 20px;
 }
 .location {
   float: left;
